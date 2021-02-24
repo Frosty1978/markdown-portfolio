@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Paul Kind #
+## Git Hub training Session ##
+### Using various headers for site ###
